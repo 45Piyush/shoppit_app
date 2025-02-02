@@ -1,0 +1,57 @@
+/* Styles for the UserInfo component */
+
+/* Center text within the card */
+.textCenter {
+    text-align: center;
+}
+
+/* Profile image styles */
+.profileImage {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+
+/* Styling for the "Edit Profile" button */
+/* .btn {
+    background-color: #6050DC;
+    color: white;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #5040CC;
+    color: #fff;
+} */
+
+/* Card styling */
+/* .card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #6050DC;
+    color: white;
+    padding: 10px 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.card-body {
+    padding: 15px;
+} */
+
+/* Additional row styles */
+/* .row {
+    margin: 0 -15px;
+}
+
+.col-md-3 {
+    padding: 15px;
+}
+
+.col-md-9 {
+    padding: 15px;
+} */
